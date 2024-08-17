@@ -1,0 +1,18 @@
+.Lui{
+    font-style: oblique;
+    font-size: 20px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    
+    width: 100%;
+}
+.bgvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
